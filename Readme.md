@@ -26,6 +26,6 @@
 
 ✪ Difflib: For finding the closest match to unknown queries.
 
-[LinkedIn]->(https://www.linkedin.com/posts/mahajanrohan03_lgmvip-python-pythonproject-activity-7208708309724385280-sKbF?utm_source=share&utm_medium=member_desktop)
+LinkedIn :-> [Demo](https://www.linkedin.com/posts/mahajanrohan03_lgmvip-python-pythonproject-activity-7208708309724385280-sKbF?utm_source=share&utm_medium=member_desktop)
 
 [LetsGrowMore](https://www.linkedin.com/in/mahajanrohan03/recent-activity/all/#) #lgmvip #python #pythonproject #pythondeveloper #pythoninternship #internship #voiceassistant #jarvis #bot #coding #codinglife #project #programming #dsa #connections #linkedin #neverstoplearning
