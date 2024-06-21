@@ -1,6 +1,6 @@
-# This is my Voice Assistant Project while I was an Intern at Lets Grow More
 
-⭐ Task 04 Python project: Voice Assistant while I was an Intern at [LetsGrowMore](https://www.linkedin.com/in/mahajanrohan03/recent-activity/all/#) ! 🎙️🤖
+
+⭐ Python project: Voice Assistant while I was an Intern at LetsGrowMore ! 🎙️🤖
 
 🔍 Project Overview: I've developed an interactive voice assistant application using Python, designed to understand and respond to voice commands. The assistant can learn new information, recall stored data, and provide responses based on the user's queries.
 
@@ -28,4 +28,3 @@
 
 LinkedIn :-> [Demo](https://www.linkedin.com/posts/mahajanrohan03_lgmvip-python-pythonproject-activity-7208708309724385280-sKbF?utm_source=share&utm_medium=member_desktop)
 
-[LetsGrowMore](https://www.linkedin.com/in/mahajanrohan03/recent-activity/all/#) #lgmvip #python #pythonproject #pythondeveloper #pythoninternship #internship #voiceassistant #jarvis #bot #coding #codinglife #project #programming #dsa #connections #linkedin #neverstoplearning
